@@ -1,2 +1,2 @@
-# numbered-textarea.github.io
-redirect to &lt;styled-textarea>
+# Redirect to: [styled-textarea.github.io](https://styled-textarea.github.io/)
+
